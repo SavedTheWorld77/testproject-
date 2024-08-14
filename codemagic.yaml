@@ -32,3 +32,4 @@ workflows:
                 # You can create groups in the Firebase console
                 groups: 
                   - androidTesters
+                artifact_type: 'apk'
