@@ -5,7 +5,9 @@ workflows:
         instance_type: mac_mini_m1
         environment:
             flutter: 3.22.3
-        
+            groups:
+              - firebase_credentials
+
         scripts:
           # ANDROID APP
           - name: Build APK Debug
