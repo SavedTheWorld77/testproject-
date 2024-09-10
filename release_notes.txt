@@ -1,2 +1,2 @@
 Changes:
-1. feat: added super soldier serum that can give world peace
+1. feat: added super gulay to cure hunger
